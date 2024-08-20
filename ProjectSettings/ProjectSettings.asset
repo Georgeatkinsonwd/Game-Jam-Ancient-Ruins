@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 3a650b90f10f97f40897280d4819c5be
+  productGUID: ab2c664b6280fb743ba9bcc7244abb6c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: GJ - Ancient Ruins
+  productName: Game Jam Ancient Ruins
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -673,14 +673,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: GJ - Ancient Ruins
+  metroPackageName: Game Jam Ancient Ruins
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: GJ - Ancient Ruins
+  metroApplicationDescription: Game Jam Ancient Ruins
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 65f6f7df-4f7b-4633-8b97-d178c6623609
+  cloudProjectId: 9d96c8b7-e18f-4dd8-8608-805a988e7dd5
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: GJ - Ancient Ruins
+  projectName: Game Jam Ancient Ruins
   organizationId: georgeatkinsonwd
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
