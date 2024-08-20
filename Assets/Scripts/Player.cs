@@ -19,6 +19,7 @@ public class Player : MonoBehaviour
     [SerializeField] public bool hasKey = false;
     [SerializeField] private bool isGrounded;
     private Animator animator;
+    public GameObject deathScreen;
 
 
     private void Awake()
@@ -96,7 +97,8 @@ public class Player : MonoBehaviour
             isPlayerAlive = false;
             animator.SetBool("isFalling", false);
             animator.SetBool("isDying", !isPlayerAlive);
-            Debug.Log("death");
+            deathScreen.SetActive(true);
+            
         }
     }
 

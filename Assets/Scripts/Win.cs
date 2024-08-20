@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class Win : MonoBehaviour
 {
+    public GameObject winScreen;
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Game Won");
+
+        winScreen.SetActive(true);
     }
 
 }
